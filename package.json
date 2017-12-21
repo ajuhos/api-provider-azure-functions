@@ -1,0 +1,26 @@
+{
+  "name": "api-provider-azure-functions",
+  "version": "0.0.1",
+  "description": "API provider for building api-core based APIs consumable via HTTP using Azure Functions.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajuhos/api-provider-azure-functions.git"
+  },
+  "keywords": [
+    "api-core",
+    "azure"
+  ],
+  "author": "We Are Break <ajuhos@we-are-break.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajuhos/api-provider-azure-functions/issues"
+  },
+  "homepage": "https://github.com/ajuhos/api-provider-azure-functions#readme",
+  "dependencies": {
+    "api-core": "^0.6.36"
+  }
+}
