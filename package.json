@@ -1,6 +1,6 @@
 {
   "name": "api-provider-azure-functions",
-  "version": "0.6.41",
+  "version": "0.7.1",
   "description": "API provider for building api-core based APIs consumable via HTTP using Azure Functions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/ajuhos/api-provider-azure-functions#readme",
   "dependencies": {
-    "api-core": "0.6.40"
+    "api-core": "0.7.1"
   }
 }
